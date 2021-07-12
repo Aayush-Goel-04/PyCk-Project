@@ -6,7 +6,7 @@ This is our implementation of hand tracking to play game via hand gestures. You 
 ## Usage
 After cloning the repository, you will need to install the following libraies - **Mediapipe** , **Pygame** , **OpenCV**
 ## Results
-- Run the Road_Escape.py file.
+- In [Main_Code](https://github.com/Aayush-Goel-04/PyCk-Project/tree/main/Main_Code) Folder, Run the Road_Escape.py file.
 - Both camera and game window will start at the same time.Try adjusting ur hand according to camera. try to make sure that the background doesn't interfere with the hand tracking. Start the the game by pressing any key on keyboard or by joining your index finger and thumb. 
 <br><br />
 ![Screenshot (77)](https://user-images.githubusercontent.com/81844215/125366719-49567580-e394-11eb-8282-e98766c82bb3.png)
