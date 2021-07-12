@@ -1,5 +1,5 @@
 # Hand Tracking and Game development 
-## u will need mediapipe and opencv module
+## PyCK Project
 This is our implementation of hand tracking to play game via hand gestures. You can check the code for Hand Tracking here,
 [Hand_Tracking.py](https://github.com/Aayush-Goel-04/PyCk-Project/blob/main/Hand_Tracking.py).
 ## Usage
