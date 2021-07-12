@@ -1,7 +1,7 @@
 # PyCK-Project
 # Hand Tracking and Game development 
 
-This is our implementation of hand tracking to play game via hand gestures.
+This is our implementation of hand tracking to play game via hand gestures. You can check the code for Hand Tracking using mediapipe here, Hand_Tracking.py(https://github.com/Aayush-Goel-04/PyCk-Project/blob/main/Hand_Tracking.py).
 ## Usage
 After cloning the repository, you will need to install the following libraies - **Mediapipe** , **Pygame** , **OpenCV**
 ## Results
