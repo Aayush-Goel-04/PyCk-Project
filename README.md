@@ -1,2 +1,2 @@
 # PyCK-Project
-Game development and Hand Tracking
+## Hand Tracking and Game development 
