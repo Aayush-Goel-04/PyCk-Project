@@ -1,6 +1,6 @@
+# u will need mediapipe and opencv module
 # run command --> pip install mediapipe 
 # run command --> pip install opencv-python
-# u will need mediapipe and opencv module
 # for documentation on mediapipe    https://google.github.io/mediapipe/solutions/hands
 import cv2
 import mediapipe as mp
