@@ -1,5 +1,6 @@
 # PyCK-Project
-## Hand Tracking and Game development 
+# Hand Tracking and Game development 
+
 This is our implementation of hand tracking to play game via hand gestures.
 ## Usage
 After cloning the repository, you will need to install the following libraies - **Mediapipe** , **Pygame** , **OpenCV**
@@ -16,3 +17,5 @@ After cloning the repository, you will need to install the following libraies - 
 - After Game is Over, you can restart the game by pressing any key or by joining your index finger and thumb.
 <br><br />
 ![Screenshot (79)](https://user-images.githubusercontent.com/81844215/125366725-4ce9fc80-e394-11eb-90f1-6e6d578e630c.png)
+<br><br />
+For algorithm explanation and reference , please check the [report]()
