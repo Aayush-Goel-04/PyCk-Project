@@ -18,4 +18,4 @@ After cloning the repository, you will need to install the following libraies - 
 <br><br />
 ![Screenshot (79)](https://user-images.githubusercontent.com/81844215/125366725-4ce9fc80-e394-11eb-90f1-6e6d578e630c.png)
 <br><br />
-For algorithm explanation and reference , please check the [report]()
+For algorithm explanation and reference , please check the [report](https://github.com/Aayush-Goel-04/PyCk-Project/blob/main/Report.pdf)
