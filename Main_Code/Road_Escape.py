@@ -25,7 +25,7 @@ WIDTH_OF_LANE = WIDTH/LANES
 screen = pygame.display.set_mode((WIDTH, HEIGHT))
 background = pygame.image.load('background.png')
     #Title and Icon
-pygame.display.set_caption("Road Race")
+pygame.display.set_caption("Road_Escape")
 icon = pygame.image.load('flags.png')
 pygame.display.set_icon(icon)
 
