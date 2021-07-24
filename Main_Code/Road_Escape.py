@@ -206,7 +206,7 @@ while True:
             enemy(enemyX[i], enemyY[i], i) 
 
         # Player Movement using Number of fingers shown
-        if fingers > 0:
+        if fingers > 0 and fingers < 5:
             playerX = 68 + 200*(fingers-1)
             Current_Lane = fingers
         player(playerX, playerY)
